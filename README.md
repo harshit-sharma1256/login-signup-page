@@ -18,7 +18,7 @@ This is a login/signup page built with HTML and CSS.
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/login-signup-page.git`
+1. Clone the repository: `git clone https://github.com/harshit-sharma1256/login-signup-page.git`
 2. Open the `index.html` file in your web browser.
 
 ## Usage
@@ -47,8 +47,5 @@ Please make sure to include these libraries in your project by including the fol
 
 ## Credits
 
-- The design and code for this login/signup page were created by [Your Name](https://github.com/your-username).
+- The design and code for this login/signup page were created by [Harshit Sharma](https://github.com/harshit-sharma1256).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
