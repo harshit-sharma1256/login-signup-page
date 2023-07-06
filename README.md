@@ -6,6 +6,11 @@ This is a login/signup page built with HTML and CSS.
 
 ![Login/Signup Page Preview](Preview.jpg)
 
+## Demo Video
+
+[Page-preview.webm](https://github.com/harshit-sharma1256/login-signup-page/assets/91192069/58e63f99-70a3-4652-ae6e-9939869b2af6)
+
+
 ## Features
 
 - Responsive design
