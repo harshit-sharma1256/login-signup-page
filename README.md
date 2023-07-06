@@ -4,7 +4,7 @@ This is a login/signup page built with HTML and CSS.
 
 ## Preview
 
-![Login/Signup Page Preview](Preview.png)
+![Login/Signup Page Preview](Preview.jpg)
 
 ## Features
 
